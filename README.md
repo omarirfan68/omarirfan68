@@ -14,12 +14,12 @@
 
 - 👯 I’m looking to collaborate on [anyone who is willing](anyone)
 
-- 👨‍💻 All of my projects are available at [on upwork(https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc)]
+- 👨‍💻 All of my projects are available at on upwork(https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc)
 - 💬 Ask me about **react,javascript,html,css,laravel,php,node.js**
 
 - 📫 How to reach me **omarirfan68@gmail.com**
 
-- 📄 Know about my experiences [check my resume there[(https://drive.google.com/file/d/13_N0ZSw9RidCUEqCkSrngM0RzQocX-Oh/view?usp=drive_link)]
+- 📄 Know about my experiences check my resume there https://bit.ly/3NczXTS
 
 - ⚡ Fun fact **I AM NUTRITIONIST TOO**
 

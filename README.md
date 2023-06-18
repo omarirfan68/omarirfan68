@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Omar Irfan</h1>
 <h3 align="center">A passionate frontend developer from World</h3> 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarirfan68&label=Profile%20views&color=0e75b6&style=flat" alt="omarirfan68" /> </p>
 

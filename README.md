@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/c9/c1/5f/c9c15fbbb4439594d0d3571e70b888a8.jpg)](https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc)
+[![MasterHead](https://i.pinimg.com/736x/a1/c9/ca/a1c9cafb0e239974e853f76e2f16b9bf.jpg)](https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc)
 
 <h1 align="center">Hi 👋, I'm Omar Irfan</h1>
 <h3 align="center">A passionate frontend developer from World</h3> 

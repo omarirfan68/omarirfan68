@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **omarirfan68@gmail.com**
 
-- 📄 Know about my experiences [check my resume there(https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc)] (check my resume there(https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc))
+- 📄 Know about my experiences [check my resume there(https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc)] 
 
 - ⚡ Fun fact **I AM NUTRITIONIST TOO**
 

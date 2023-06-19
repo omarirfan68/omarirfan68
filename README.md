@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/736x/a1/c9/ca/a1c9cafb0e239974e853f76e2f16b9bf.jpg)](https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc)
 
 <h1 align="center">Hi 👋, I'm Omar Irfan</h1>
-<h3 align="center">A passionate frontend developer from World</h3> 
+<h3 align="center">A passionate web developer from World</h3> 
 <img align="right" alt="Coding" link="https://www.upwork.com/freelancers/~01ca32a5bd46db2bbc" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarirfan68&label=Profile%20views&color=0e75b6&style=flat" alt="omarirfan68" /> </p>

@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on [anyone who is willing](anyone)
 
 - 👨‍💻 All of my projects are available at on upwork https://bit.ly/3NhOttw
-- 💬 Ask me about **react,javascript,html,css,laravel,php,node.js**
+- 💬 Ask me about **react,javascript,html,css,laravel,php,node.js,Wordpress**
 
 - 📫 How to reach me **omarirfan68@gmail.com**
 
